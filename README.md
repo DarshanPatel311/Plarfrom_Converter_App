@@ -66,10 +66,11 @@ Gestures:
 
 
 <p align = 'center'>
-  <img src='https://github.com/DarshanPatel311/Plarfrom_Converter_App/assets/143177575/48b8f29b-5ca6-49ff-a8d6-96cd314910df' width = 250>
+  <img src='https://github.com/DarshanPatel311/Plarfrom_Converter_App/assets/143177575/a759e58b-058b-495a-b4b2-bc2c6f0deb00' width = 250>
     <img src='https://github.com/DarshanPatel311/Plarfrom_Converter_App/assets/143177575/b922a8db-fa61-41d2-a5cb-d46a6b4d24cc' width = 250>
       <img src='https://github.com/DarshanPatel311/Plarfrom_Converter_App/assets/143177575/39a17fdf-43a1-4de4-b231-b2962ad0e1b3' width = 250>
         <img src='https://github.com/DarshanPatel311/Plarfrom_Converter_App/assets/143177575/64dde52c-2369-4eb5-858f-a31a66d40e26' width = 250>
+
 
 </p>
 
