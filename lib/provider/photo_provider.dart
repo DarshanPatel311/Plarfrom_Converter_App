@@ -1,12 +1,7 @@
-import 'package:flutter/cupertino.dart';
+import 'dart:io';
+
+import 'package:image_picker/image_picker.dart';
 
 
 
-class PhotoProvider extends ChangeNotifier{
-  void setImage() async {
-    XFile? images = await picker.pickImage(source: ImageSource.gallery);
-    imgpath = File(images!.path);
-    notifyListeners();
-  }
 
-}
