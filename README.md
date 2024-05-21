@@ -76,6 +76,9 @@ Gestures:
 
 
 
+
+
+
 ## IOS Platfrom
 
 
@@ -85,8 +88,9 @@ Gestures:
     <img src='https://github.com/DarshanPatel311/Plarfrom_Converter_App/assets/143177575/d85cc247-0d10-482a-8059-273a04a177ae' width = 250>
     <img src='https://github.com/DarshanPatel311/Plarfrom_Converter_App/assets/143177575/96bea032-888b-4b25-b28b-790fa1b6810d' width = 250>
 </p>
+<div align = 'center'>
 <a href='https://github.com/DarshanPatel311/Plarfrom_Converter_App/tree/master/lib' align = 'center'>👉 📱  Go to dart file 📱  👈</a>
-
+</div>
 
 ## Video
-<video src='' align = 'center'>
+<video src='https://github.com/DarshanPatel311/Plarfrom_Converter_App/assets/143177575/fde58128-a2df-49ca-a390-5b21477a16ec' align = 'center'>
